@@ -16,5 +16,607 @@
         "batch_name": "WEB-18",
         "profession": "FSD"
       }
-    ]
+    ],
+    "quize": [
+      {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "What is the world&#039;s most expensive spice by weight?",
+          "correct_answer": "Saffron",
+          "incorrect_answers": [
+              "Cinnamon",
+              "Cardamom",
+              "Vanilla"
+          ]
+      },
+      {
+          "category": "Science & Nature",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "Along with Oxygen, which element is primarily responsible for the sky appearing blue?",
+          "correct_answer": "Nitrogen",
+          "incorrect_answers": [
+              "Helium",
+              "Carbon",
+              "Hydrogen"
+          ]
+      },
+      {
+          "category": "Animals",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "What is the fastest  land animal?",
+          "correct_answer": "Cheetah",
+          "incorrect_answers": [
+              "Lion",
+              "Thomson&rsquo;s Gazelle",
+              "Pronghorn Antelope"
+          ]
+      },
+      {
+          "category": "Entertainment: Music",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Which Canadian reggae musician had a 1993 hit with the song &#039;Informer&#039;?",
+          "correct_answer": "Snow",
+          "incorrect_answers": [
+              "Rain",
+              "Hail",
+              "Sleet"
+          ]
+      },
+      {
+          "category": "Entertainment: Cartoon & Animations",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "The song &#039;Little April Shower&#039; features in which Disney cartoon film?",
+          "correct_answer": "Bambi",
+          "incorrect_answers": [
+              "Cinderella",
+              "Pinocchio",
+              "The Jungle Book"
+          ]
+      },
+      {
+          "category": "Entertainment: Music",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "Who is the founder and leader of industrial rock band, &#039;Nine Inch Nails&#039;?",
+          "correct_answer": "Trent Reznor",
+          "incorrect_answers": [
+              "Marilyn Manson",
+              "Robin Finck",
+              "Josh Homme"
+          ]
+      },
+      {
+          "category": "Entertainment: Music",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "What was the title of ABBA`s first UK hit single?",
+          "correct_answer": "Waterloo",
+          "incorrect_answers": [
+              "Mamma Mia",
+              "Fernando",
+              "Dancing Queen"
+          ]
+      },
+      {
+          "category": "Entertainment: Cartoon & Animations",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Which of these is NOT a catchphrase used by Rick Sanchez in the TV show &quot;Rick and Morty&quot;?",
+          "correct_answer": "Slam dunk, nothing but net!",
+          "incorrect_answers": [
+              "Hit the sack, Jack!",
+              "Rikki-Tikki-Tavi, biatch!",
+              "Wubba-lubba-dub-dub!"
+          ]
+      },
+      {
+          "category": "Entertainment: Video Games",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "In World of Warcraft Lore, four Old Gods created a giant and powerful creature. What was it called? ",
+          "correct_answer": "The Ancient One",
+          "incorrect_answers": [
+              "Anomalous",
+              "Eater of Souls",
+              "The Lich King"
+          ]
+      },
+      {
+          "category": "Celebrities",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "What is Doug Walker&#039;s YouTube name?",
+          "correct_answer": "The Nostalgia Critic",
+          "incorrect_answers": [
+              "The Angry Video Game Nerd",
+              "AngryJoeShow",
+              "The Cinema Snob"
+          ]
+      },
+      {
+          "category": "Vehicles",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "Which of the following passenger jets is the longest?",
+          "correct_answer": "Boeing 747-8",
+          "incorrect_answers": [
+              "Airbus A350-1000",
+              "Airbus A330-200",
+              "Boeing 787-10"
+          ]
+      },
+      {
+          "category": "Politics",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "The largest consumer market in 2015 was...",
+          "correct_answer": "The United States of America",
+          "incorrect_answers": [
+              "Germany",
+              "Japan",
+              "United Kingdom"
+          ]
+      },
+      {
+          "category": "Entertainment: Video Games",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "Which one of the following actors did not voice a character in &quot;Saints Row: The Third&quot;?",
+          "correct_answer": "Ron Jeremy",
+          "incorrect_answers": [
+              "Sasha Grey",
+              "Burt Reynolds",
+              "Hulk Hogan"
+          ]
+      },
+      {
+          "category": "Entertainment: Comics",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "What is the name of the main character in the webcomic Gunnerkrigg Court by Tom Siddell?",
+          "correct_answer": "Antimony",
+          "incorrect_answers": [
+              "Bismuth",
+              "Mercury",
+              "Cobalt"
+          ]
+      },
+      {
+          "category": "Entertainment: Video Games",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "In World of Warcraft lore, who was first to have the title &quot;The Ashbringer&quot;?",
+          "correct_answer": "Alexandros Mograine",
+          "incorrect_answers": [
+              "Tirion Fordring",
+              "Arthas Menethil",
+              "Uther the Lightbringer"
+          ]
+      },
+      {
+          "category": "Entertainment: Music",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "What year was Huun Huur Tu&#039;s album Altai Sayan Tandy-Uula released? ",
+          "correct_answer": "2004",
+          "incorrect_answers": [
+              "1993",
+              "2006",
+              "2010"
+          ]
+      },
+      {
+          "category": "Mythology",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Which Greek &amp; Roman god was known as the god of music, truth and prophecy, healing, the sun and light, plague, poetry, and more?",
+          "correct_answer": "Apollo",
+          "incorrect_answers": [
+              "Aphrodite",
+              "Artemis",
+              "Athena"
+          ]
+      },
+      {
+          "category": "Science & Nature",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Human cells typically have how many copies of each gene?",
+          "correct_answer": "2",
+          "incorrect_answers": [
+              "1",
+              "4",
+              "3"
+          ]
+      },
+      {
+          "category": "Geography",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "What is the name of the peninsula containing Spain and Portugal?",
+          "correct_answer": "Iberian Peninsula",
+          "incorrect_answers": [
+              "European Peninsula",
+              "Peloponnesian Peninsula",
+              "Scandinavian Peninsula"
+          ]
+      },
+      {
+          "category": "Entertainment: Film",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "In the movie &quot;Scream&quot; who is Ghost Face?",
+          "correct_answer": "Billy Loomis and Stu Macher",
+          "incorrect_answers": [
+              "Dewey Riley",
+              "Sidney Prescott",
+              "Archie Prescott and Philip Marv"
+          ]
+      },
+      {
+          "category": "Entertainment: Video Games",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "In the video game Overwatch, which playable character is infamous for saying &quot;It&#039;s high noon.&quot;?",
+          "correct_answer": "McCree",
+          "incorrect_answers": [
+              "Hanzo",
+              "Pharah",
+              "Soldier: 76"
+          ]
+      },
+      {
+          "category": "Entertainment: Comics",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "Which issue of the &quot;Sonic the Hedgehog&quot; comic did Scourge the Hedgehog make his first appearance?",
+          "correct_answer": "Sonic the Hedgehog #11",
+          "incorrect_answers": [
+              "Sonic Universe #32",
+              "Sonic the Hedgehog #161",
+              "Sonic the Hedgehog #47"
+          ]
+      },
+      {
+          "category": "Entertainment: Video Games",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "In Halo 2, how many rounds does the M6C hold in a single magazine?",
+          "correct_answer": "12",
+          "incorrect_answers": [
+              "6",
+              "36",
+              "18"
+          ]
+      },
+      {
+          "category": "Entertainment: Japanese Anime & Manga",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "Which animation studio animated the 2016 anime &quot;Mob Psycho 100&quot;?",
+          "correct_answer": "Bones",
+          "incorrect_answers": [
+              "A-1 Pictures",
+              "Shaft",
+              "Madhouse"
+          ]
+      },
+      {
+          "category": "Entertainment: Video Games",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "In The Elder Scrolls V: Skyrim, who is the jester in the dark brotherhood?",
+          "correct_answer": "Cicero",
+          "incorrect_answers": [
+              "Lucien Lachance",
+              "Archimedes",
+              "Astrid"
+          ]
+      },
+      {
+          "category": "Entertainment: Music",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "What is the name of the song by Beyonc&eacute; and Alejandro Fern&aacute;ndez released in 2007?",
+          "correct_answer": "Amor Gitano",
+          "incorrect_answers": [
+              "La ultima vez",
+              "Rocket",
+              "Hasta Dondes Estes"
+          ]
+      },
+      {
+          "category": "Vehicles",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Which car tire manufacturer is famous for its &quot;Eagle&quot; brand of tires, and is the official tire supplier of NASCAR?",
+          "correct_answer": "Goodyear",
+          "incorrect_answers": [
+              "Pirelli",
+              "Bridgestone",
+              "Michelin"
+          ]
+      },
+      {
+          "category": "Vehicles",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "What are the cylinder-like parts that pump up and down within the engine?",
+          "correct_answer": "Pistons",
+          "incorrect_answers": [
+              "Leaf Springs",
+              "Radiators",
+              "ABS"
+          ]
+      },
+      {
+          "category": "Entertainment: Television",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "In &quot;Donkey Kong Country&quot;, why does Donkey Kong want to know the secret of the crystal coconut?",
+          "correct_answer": "He&#039;s the big kahuna.",
+          "incorrect_answers": [
+              "To find out where all the bananas are.",
+              "Because Diddy Kong forced him.",
+              "He wants to punish brutes."
+          ]
+      },
+      {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "What year was the RoboSapien toy robot released?",
+          "correct_answer": "2004",
+          "incorrect_answers": [
+              "2000",
+              "2001",
+              "2006"
+          ]
+      },
+      {
+          "category": "Entertainment: Video Games",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "Which variant of the MP5 is depicted in Counter-Strike 1.6?",
+          "correct_answer": "MP5N",
+          "incorrect_answers": [
+              "MP5SD",
+              "MP5K",
+              "MP5RAS"
+          ]
+      },
+      {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "What is the Portuguese word for &quot;Brazil&quot;?",
+          "correct_answer": "Brasil",
+          "incorrect_answers": [
+              "Brazil",
+              "Brasilia",
+              "Bras&iacute;l"
+          ]
+      },
+      {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "Apple co-founder Steve Jobs died from complications of which form of cancer?",
+          "correct_answer": "Pancreatic",
+          "incorrect_answers": [
+              "Bone",
+              "Liver",
+              "Stomach"
+          ]
+      },
+      {
+          "category": "Entertainment: Video Games",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Which of these is not a wonder weapon in &quot;Call Of Duty: Zombies&quot;?",
+          "correct_answer": "R115 Resonator",
+          "incorrect_answers": [
+              "GKZ-45 Mk3",
+              "Ray Gun",
+              "Scavenger"
+          ]
+      },
+      {
+          "category": "History",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "When was the &quot;Siege of Leningrad&quot; lifted during World War II?",
+          "correct_answer": "January 1944",
+          "incorrect_answers": [
+              "September 1943",
+              "November 1943",
+              "March 1944"
+          ]
+      },
+      {
+          "category": "Politics",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "Which of these was an official candidate in the 2017 British General Election?",
+          "correct_answer": "Lord Buckethead",
+          "incorrect_answers": [
+              "James Francis",
+              "Robert Wimbledon",
+              "Sir Crumpetsby"
+          ]
+      },
+      {
+          "category": "Entertainment: Japanese Anime & Manga",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "In 2013, virtual pop-star Hatsune Miku had a sponsorship with which pizza chain?",
+          "correct_answer": "Domino&#039;s",
+          "incorrect_answers": [
+              "Papa John&#039;s",
+              "Pizza Hut",
+              "Sabarro&#039;s"
+          ]
+      },
+      {
+          "category": "Entertainment: Cartoon & Animations",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "Which Hanna-Barbera cartoon character travelled with a canine companion named Beegle Beagle?",
+          "correct_answer": "Grape Ape",
+          "incorrect_answers": [
+              "Boss Gator",
+              "Wally Gator",
+              "Yogi Bear"
+          ]
+      },
+      {
+          "category": "Entertainment: Television",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "The HBO series &quot;Game of Thrones&quot; is based on which series of books?",
+          "correct_answer": "A Song of Ice and Fire",
+          "incorrect_answers": [
+              "The Wheel of Time",
+              "Harry Potter",
+              "The Notebook"
+          ]
+      },
+      {
+          "category": "Entertainment: Music",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Which group performs the song &quot;Crash into Me&quot;?",
+          "correct_answer": "Dave Matthews Band",
+          "incorrect_answers": [
+              "Phish",
+              "The Grateful Dead",
+              "Destiny&#039;s Child"
+          ]
+      },
+      {
+          "category": "Geography",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "What is the northernmost human settlement with year round inhabitants?",
+          "correct_answer": "Alert, Canada",
+          "incorrect_answers": [
+              "Nagurskoye, Russia",
+              "McMurdo Station, Antarctica ",
+              "Honningsv&aring;g, Norway"
+          ]
+      },
+      {
+          "category": "Entertainment: Japanese Anime & Manga",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "In &quot;Love Live: School Idol Project&quot; what pseudonym does Kotori Minami use in her job as a maid?",
+          "correct_answer": "Minalinsky",
+          "incorrect_answers": [
+              "Stanoytchev",
+              "Kuznetsov",
+              "Aqours"
+          ]
+      },
+      {
+          "category": "Entertainment: Film",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "Which Marvel superhero did Chris Evans play prior to his role as Captain America?",
+          "correct_answer": "Human Torch",
+          "incorrect_answers": [
+              "Cyclops",
+              "Iceman",
+              "Daredevil"
+          ]
+      },
+      {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "Which of these cities does NOT have a United States Minting location?",
+          "correct_answer": "St. Louis, MO",
+          "incorrect_answers": [
+              "San Fransisco, CA",
+              "Philidelphia, PA",
+              "West Point, NY"
+          ]
+      },
+      {
+          "category": "History",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "Who was the last Roman emperor in the Year of Four Emperors (69 AD)?",
+          "correct_answer": "Vespasian",
+          "incorrect_answers": [
+              "Vitellius",
+              "Otho",
+              "Galba"
+          ]
+      },
+      {
+          "category": "Entertainment: Comics",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "In &quot;Homestuck&quot; the &quot;Kingdom of Darkness&quot; is also known as?",
+          "correct_answer": "Derse",
+          "incorrect_answers": [
+              "Skaia",
+              "Prospit",
+              "The Medium"
+          ]
+      },
+      {
+          "category": "Entertainment: Video Games",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "What vehicle in PUBG has the highest top speed?",
+          "correct_answer": "Motorcycle",
+          "incorrect_answers": [
+              "PG-117",
+              "Dacia",
+              "Buggy"
+          ]
+      },
+      {
+          "category": "Entertainment: Video Games",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "In the Nintendo Game Splatoon 2, what is Marina&#039;s screen name?",
+          "correct_answer": "DJ_Hyperfresh",
+          "incorrect_answers": [
+              "MC.princess",
+              "Kidnotsquid123",
+              "I&lt;30ffTh3H00k"
+          ]
+      },
+      {
+          "category": "Entertainment: Video Games",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "How many obsidian blocks are required to build a nether portal in Minecraft?",
+          "correct_answer": "10",
+          "incorrect_answers": [
+              "14",
+              "13",
+              "16"
+          ]
+      },
+      {
+          "category": "Science: Computers",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "What does the computer software acronym JVM stand for?",
+          "correct_answer": "Java Virtual Machine",
+          "incorrect_answers": [
+              "Java Vendor Machine",
+              "Java Visual Machine",
+              "Just Virtual Machine"
+          ]
+      }
+  ]
   }
